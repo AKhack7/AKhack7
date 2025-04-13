@@ -1,3 +1,4 @@
+![logo](https://github.com/AKhack7/AKhack7/blob/main/istockphoto-1460229990-612x612.jpg)
 <h1 align="center">Hi 👋, I'm AMIT VISHWAKARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
