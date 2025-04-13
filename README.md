@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **IT students**
 
-- 👨‍💻 All of my projects are available at [https://amit534.wordpress.com/](https://amit534.wordpress.com/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Instagram**
 
