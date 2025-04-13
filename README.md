@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AMIT VISHWAKARMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952ihdo6bgdvjlad9dlcy74t04081k718556h8j3val&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<div align="right"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="logo" width="400"> </div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhack7&label=Profile%20views&color=0e75b6&style=flat" alt="akhack7" /> </p>
